@@ -24,4 +24,3 @@ git put origin master
 
 git push -f origin master 
 ```
-git
